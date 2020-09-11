@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "MCS Add-on",
+        "name": "More Crafting Sun",
+        "uuid": "5676e667-3927-4eed-8a9a-20723927aee9",
+        "version": [1,0,0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "MCS Add-on",
+            "type": "data",
+            "uuid": "c7ceef0c-a422-40b1-81cf-817630141307",
+            "version": [1,0,0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "ad9ffdd0-0120-4bc3-9d05-e370930c57be",
+            "version": [1,0,0]
+        }
+    ]
+}
