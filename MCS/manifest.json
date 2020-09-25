@@ -20,5 +20,10 @@
             "uuid": "ad9ffdd0-0120-4bc3-9d05-e370930c57be",
             "version": [1,0,0]
         }
-    ]
+    ],
+    "metadata": {
+        "authors": ["Gu_ZT"],
+        "license": "GPL 3.0",
+        "url": "http://www.polaris-mc.tech/"
+    }
 }
