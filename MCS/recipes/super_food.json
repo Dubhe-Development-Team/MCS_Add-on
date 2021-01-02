@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+        "identifier": "mcs:super_food"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "#D#",
+            "DPD",
+            "#D#"
+        ],
+        "key": {
+            "D": {
+                "item": "minecraft:cooked_beef"
+            },
+            "P": {
+                "item": "minecraft:apple"
+            },
+            "#": {
+                "item": "minecraft:cooked_porkchop"
+            }
+        },
+        "result": {
+            "item": "mcs:super_food",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+        "identifier": "mcs:elytra"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "#D#",
+            "DPD",
+            "D D"
+        ],
+        "key": {
+            "D": {
+                "item": "minecraft:phantom_membrane"
+            },
+            "P": {
+                "item": "minecraft:leather_chestplate"
+            },
+            "#": {
+                "item": "minecraft:emerald"
+            }
+        },
+        "result": {
+            "item": "minecraft:elytra",
+            "count": 1
+        }
+    }
+}

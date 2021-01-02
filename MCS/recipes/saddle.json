@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+        "identifier": "mcs:saddle"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "DDD",
+            "DPD"
+        ],
+        "key": {
+            "D": {
+                "item": "minecraft:leather"
+            },
+            "P": {
+                "item": "minecraft:tripwire_hook"
+            }
+        },
+        "result": {
+            "item": "minecraft:saddle",
+            "count": 1
+        }
+    }
+}
